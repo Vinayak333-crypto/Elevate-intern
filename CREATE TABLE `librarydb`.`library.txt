@@ -1,0 +1,9 @@
+CREATE TABLE `librarydb`.`library table` (
+  `S.NO` INT NOT NULL,
+  `Book Name` VARCHAR(45) NOT NULL,
+  `Authors` VARCHAR(45) NOT NULL,
+  `Category` VARCHAR(45) NOT NULL,
+  `Members Name` VARCHAR(45) NOT NULL,
+  `Loan ID` VARCHAR(45) NOT NULL,
+  `Staff ID` VARCHAR(45) NOT NULL,
+  PRIMARY KEY (`S.NO`, `Book Name`, `Loan ID`, `Staff ID`));

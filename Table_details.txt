@@ -1,0 +1,10 @@
+INSERT INTO `librarydb`.`library table` (`S.NO`, `Book Name`, `Authors`, `Cataegory`, `Member Name`, `Loan ID`, `Staff ID`) VALUES ('1', 'The Da vinci code', 'Dan Brown', 'Mystrey', 'Vinayak', '824383', '12');
+INSERT INTO `librarydb`.`library table` (`S.NO`, `Book Name`, `Authors`, `Cataegory`, `Member Name`, `Loan ID`, `Staff ID`) VALUES ('2', 'Parva', 'S.L Bairappa', 'Thriller', 'ramesh', '245363', '8');
+INSERT INTO `librarydb`.`library table` (`S.NO`, `Book Name`, `Authors`, `Cataegory`, `Member Name`, `Loan ID`, `Staff ID`) VALUES ('3', 'The Alchemist', 'Paulo Coelho', 'Classic', 'Rahul', '835463', '7');
+INSERT INTO `librarydb`.`library table` (`S.NO`, `Book Name`, `Authors`, `Cataegory`, `Member Name`, `Loan ID`, `Staff ID`) VALUES ('4', 'Gartha', 'U.R.Ananthmurthy', 'Literature', 'Ritika', '835436', '15');
+INSERT INTO `librarydb`.`library table` (`S.NO`, `Book Name`, `Authors`, `Cataegory`, `Member Name`, `Loan ID`, `Staff ID`) VALUES ('5', 'The Hobbit', 'J.R.Tolkien', 'Adventure', 'Bharat', '373788', '12');
+INSERT INTO `librarydb`.`library table` (`S.NO`, `Book Name`, `Authors`, `Cataegory`, `Member Name`, `Loan ID`, `Staff ID`) VALUES ('6', 'Kaarvalo', 'Poornachandra tejaswi', 'Thriller', 'Vinayak', '625268', '6');
+INSERT INTO `librarydb`.`library table` (`S.NO`, `Book Name`, `Authors`, `Cataegory`, `Member Name`, `Loan ID`, `Staff ID`) VALUES ('7', 'Bharatipura', 'U.R.Ananthmurthy', 'Social&political', 'Prashanth', '873678', '22');
+INSERT INTO `librarydb`.`library table` (`S.NO`, `Book Name`, `Authors`, `Cataegory`, `Member Name`, `Loan ID`, `Staff ID`) VALUES ('8', '1984', 'George well', 'Fiction Novel', 'Manoj', '736357', '21');
+INSERT INTO `librarydb`.`library table` (`S.NO`, `Book Name`, `Authors`, `Cataegory`, `Member Name`, `Loan ID`, `Staff ID`) VALUES ('9', 'Nakuthanthi', 'D.R.Bendre', 'Poetry', 'Ganesh', '938373', '8');
+INSERT INTO `librarydb`.`library table` (`S.NO`, `Book Name`, `Authors`, `Cataegory`, `Member Name`, `Loan ID`, `Staff ID`) VALUES ('10', 'The great Gatsby', 'Scott Fitzergold', 'Tragedy', 'Kajal', '936378', '9');
